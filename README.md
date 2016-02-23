@@ -11,9 +11,9 @@ This website illustrates how to integrate a lightGallery/Isotope photo gallery i
 
 ## Run the Website and Make It Your Own
 
-Run the website with `jekyll s`.
+Run the website with `jekyll s`. Or just view the [GitHub Pages version](http://opieters.github.io/jekyll-gallery-example/).
 
-[This blogpost][http://www.olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery.html] explains different parts of the gallery and design choices. Use these snippets and files in this repo to make your own photo gallery.
+[This blogpost](http://www.olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery.html) explains different parts of the gallery and design choices. Use these snippets and files in this repo to make your own photo gallery.
 
 ## License
 
