@@ -1,0 +1,19 @@
+{
+  "name": "jekyll-gallery-example",
+  "version": "0.0.0",
+  "authors": [
+    "Olivier Pieters <me@olivierpieters.be>"
+  ],
+  "description": "An Example Jekyll Photo Gallery",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "lightgallery": "^1.2.14",
+    "picturefill": "^3.0.2",
+    "isotope": "^2.2.2",
+    "imagesloaded": "^4.1.0",
+    "jquery-mousewheel": "^3.1.13"
+  }
+}

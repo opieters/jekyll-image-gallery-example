@@ -1,3 +1,17 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+assets/eventEmitter
+assets/eventie
+assets/fizzy-ui-utils
+assets/get-size
+assets/get-style-property
+assets/imagesloaded
+assets/isotope
+assets/jquery
+assets/jquery-mousewheel
+assets/lightgallery
+assets/masonry
+assets/matches-selector
+assets/outlayer
+assets/ev-emitter
