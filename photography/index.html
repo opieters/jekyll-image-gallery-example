@@ -15,8 +15,8 @@ permalink: /photography/
 {% if count == 0 %}<div class="row">{% endif %}
   <div class="half-width gallery-preview {{ align }}">
     <h3>{{ gallery.title }}</h3>
-    <a href="{{ site.baseurl }}/photography/{{ gallery.directory }}.html">
-      <img alt="{{ gallery.title }}" src="{{ site.baseurl }}/assets/photography/{% if gallery.image_path %}{{ gallery.image_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
+    <a href="{{ site.url }}/{{ site.baseurl }}/photography/{{ gallery.directory }}.html">
+      <img alt="{{ gallery.title }}" src="{{ site.url }}/{{ site.baseurl }}/assets/photography/{% if gallery.image_path %}{{ gallery.image_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.thumbnail }}" />
     </a>
   </div>
 {% if count == 1 %}</div>{% endif %}
