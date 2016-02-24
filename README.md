@@ -4,14 +4,14 @@ This website illustrates how to integrate a lightGallery/Isotope photo gallery i
 
 ## Installation
 
-1. Clone the git repo: `git clone https://github.com/opieters/jekyll-gallery-example`
+1. Clone the git repo: `git clone https://github.com/opieters/jekyll-image-gallery-example.git`
 2. Change folder: `cd jekyll-gallery-example`
 3. Install Jekyll: `gem install jekyll`
 4. Install all JS dependencies with bower: `bower install` (not required, JS dependencies are already included in the repo)
 
 ## Run the Website and Make It Your Own
 
-Run the website with `jekyll s`. Or just view the [GitHub Pages version](http://opieters.github.io/jekyll-gallery-example/).
+Run the website with `jekyll s`. Or just view the [GitHub Pages version](http://opieters.github.io/jekyll-image-gallery-example/).
 
 [This blogpost](http://www.olivierpieters.be/blog/2016/02/26/creating-a-jekyll-image-gallery.html) explains different parts of the gallery and design choices. Use these snippets and files in this repo to make your own photo gallery.
 
