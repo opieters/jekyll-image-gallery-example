@@ -7,7 +7,6 @@ This website illustrates how to integrate a lightGallery/Isotope photo gallery i
 1. Clone the git repo: `git clone https://github.com/opieters/jekyll-image-gallery-example.git`
 2. Change folder: `cd jekyll-image-gallery-example`
 3. Install Jekyll: `gem install jekyll`
-4. Install all JS dependencies with bower: `bower install` (not required, JS dependencies are already included in the repo)
 
 ## Run the Website and Make It Your Own
 
@@ -18,5 +17,3 @@ Run the website with `jekyll s`. Or just view the [GitHub Pages version](https:/
 ## License
 
 The code is licensed under MIT license (see LICENSE-CODE.md). The images in the `assets/photography` folder are licensed under CC-BY-NC-SA license (see LICENSE-IMAGES.md).
-
-The different frameworks in the `assets` folder are licensed under the framework specific language. No modifications were performed to these frameworks.
